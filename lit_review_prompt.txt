@@ -1,28 +1,41 @@
-Below is my research idea targeting top 3 finance journals (or top 5 econ if appropriate). The student has already identified their 3 closest papers (listed below). Your job is to find papers they MISSED — immediate threats to novelty that are NOT already in their reference list.
+Below is a theory-oriented research idea targeting premier operations management, quantitative marketing, or information systems journals. The student has already identified their 3 closest papers or models. Your job is to find papers they MISSED - immediate threats to novelty that are not already in their list.
 
 Please do the following:
 
-1. Threat Search: Identify papers that the student did NOT cite but that pose a direct threat to the idea's novelty. Focus on:
-   - Papers that test a very similar mechanism, even in a different setting
-   - Papers that use the same identification strategy on a related question
-   - Recent working papers (SSRN, NBER) that may be running the same race
-   - Papers from adjacent fields (econ, accounting, CS/ML) that could scoop or subsume the contribution
-   Remember: the goal is NOT to find broadly related literature, but to find the closest “competing papers” that the student has overlooked — papers that, if a referee cited them, would force a major revision or undermine the claimed contribution. Prioritize top 3 finance journals and top 5 econ journals, but include working papers if they are direct threats.
+1. Threat search
+Identify papers, models, and recent working papers that pose a direct threat to novelty. Focus on:
+- Papers that use the same core mechanism or friction
+- Papers with the same timing, information structure, contract form, or equilibrium logic
+- Papers that generate the same qualitative comparative statics or substantive insight
+- Adjacent-field papers that could make the contribution look incremental
+- Recent working papers that appear to be running the same race
 
-2. Summarize & Cite: For each threat paper, provide:
-   - Full citation (authors, year, journal/outlet, title)
-   - URL (Google Scholar, SSRN, or publisher link — you MUST include a verifiable URL for every paper)
-   - 2-3 sentence summary of how it specifically threatens the student's idea
-   - Threat level: HIGH (directly overlaps mechanism + setting), MEDIUM (overlaps mechanism OR setting), LOW (tangential but a referee might raise it)
+The goal is not to build a broad literature review. The goal is to surface the nearest competing papers that a referee would cite to challenge novelty.
 
-   IMPORTANT: Do NOT fabricate citations. Every paper you cite must be one you found via web search with a real, verifiable URL. If you cannot find a URL for a paper, do not include it.
+2. Summarize and cite
+For each threat paper, provide:
+- Full citation (authors, year, outlet, title)
+- URL (Google Scholar, SSRN, IDEAS/RePEc, conference page, or publisher link - you must include a verifiable URL)
+- 2-3 sentence summary of how it specifically threatens the student's idea
+- Threat level:
+  - HIGH: overlaps core mechanism and core insight
+  - MEDIUM: overlaps either mechanism or insight, but not both
+  - LOW: not fatal, but a referee would likely mention it
+- Threat type: mechanism threat, structure threat, framing threat, or race threat
 
-3. Gap Analysis: Given both the student's 3 closest papers AND the new threats you found, assess:
-   - Is there still a clear gap, or has the space been closed?
-   - Which specific aspect of the idea survives as genuinely new?
-   - What is the single strongest “this is not just X applied to Y” argument?
+Important: do not fabricate citations. Every paper must come from web search and include a real URL. If you cannot verify a paper, do not include it.
 
-4. Defensive Recommendations: Suggest specific modifications to make the idea robust against the threats identified — how to frame, pivot, or sharpen the contribution so it cannot be dismissed as incremental.
+3. Gap analysis
+Given the student's 3 cited papers and the new threats you found, assess:
+- Is there still a defendable gap?
+- What exactly survives as genuinely new?
+- What is the single strongest argument that this is not just an incremental variant of an existing model?
 
-Organize your output under clear headings (e.g., 'Student's Cited Papers,' 'New Threat Papers,' 'Gap Analysis,' 'Defensive Recommendations') for ease of review.
+4. Defensive recommendations
+Suggest specific modifications to make the idea more robust against the threats identified. Recommend how to sharpen the framing, simplify the model, shift the benchmark, or recenter the mechanism.
 
+Organize the output under clear headings such as:
+- Student's Cited Papers
+- New Threat Papers
+- Gap Analysis
+- Defensive Recommendations
